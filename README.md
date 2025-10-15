@@ -388,7 +388,7 @@ Implementation partnerships require separate agreement with creator.
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.0 | [TODAY] | Initial concept documentation |
+| 1.0 | 15/10/2025 | Initial concept documentation |
 
 ---
 
